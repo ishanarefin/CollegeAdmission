@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\CollegeAdmission\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\CollegeAdmission\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\CollegeAdmission\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_with__all__input.xml",
+        "source": "D:\\CollegeAdmission\\app\\src\\main\\res\\menu\\menu_with__all__input.xml"
+    },
+    {
+        "merged": "D:\\CollegeAdmission\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_dhaka__board.xml",
+        "source": "D:\\CollegeAdmission\\app\\src\\main\\res\\menu\\menu_dhaka__board.xml"
+    },
+    {
+        "merged": "D:\\CollegeAdmission\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_chittagong__board.xml",
+        "source": "D:\\CollegeAdmission\\app\\src\\main\\res\\menu\\menu_chittagong__board.xml"
+    }
+]
